@@ -8,7 +8,7 @@
 <!ENTITY github "Squidly271/no.referrer">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/&github;/master/plugins/&name;.plg">
 ]>
-<PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" icon="lock" min='6.7.0" max="6.8.2" support="https://forums.unraid.net/topic/88351-plugin-no-referrals/">
+<PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" icon="lock" min="6.7.0" max="6.8.2" support="https://forums.unraid.net/topic/88351-plugin-no-referrals/">
   <CHANGES>
 ###2020.02.08
 - Initial Release
