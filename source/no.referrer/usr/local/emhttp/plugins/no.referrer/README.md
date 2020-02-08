@@ -1,0 +1,2 @@
+####No Referral####
+This plugin stops any referral header from being sent to a 3rd party website due to the user clicking any links to take them to the website or from downloading an icon / picture from the 3rd party website while in unRaid's GUI
