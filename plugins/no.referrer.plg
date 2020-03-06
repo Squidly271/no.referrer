@@ -2,14 +2,17 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name "no.referrer">
 <!ENTITY author "Andrew Zawadzki">
-<!ENTITY version "2020.02.08">
-<!ENTITY md5 "7a2ff64a2eb730b12759ae6f13bdd8be">
+<!ENTITY version "2020.03.06">
+<!ENTITY md5 "863ebe2e5084adddf993fc6cc8e895d4">
 <!ENTITY plugdir "/usr/local/emhttp/plugins/&name;">
 <!ENTITY github "Squidly271/no.referrer">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/&github;/master/plugins/&name;.plg">
 ]>
-<PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" icon="lock" min="6.7.0" max="6.8.9" support="https://forums.unraid.net/topic/88351-plugin-no-referrals/">
+<PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" icon="lock" min="6.7.0" max="6.8.2" support="https://forums.unraid.net/topic/88351-plugin-no-referrals/">
   <CHANGES>
+###2020.03.06
+- Update max version to 6.8.2
+
 ###2020.02.08
 - Initial Release
 </CHANGES>
